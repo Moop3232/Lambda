@@ -1,2 +1,0 @@
-# Lambda
-Repository for Lambda
